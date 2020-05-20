@@ -26,7 +26,6 @@ class PhotoGallery extends Component {
             <Carousel.Item>
               <img className="carousel-image" src={img3} alt="1" />
               <Carousel.Caption>
-                <p className="image-date">date</p>
                 <p className="image-location">Stanford University</p>
               </Carousel.Caption>
             </Carousel.Item>
@@ -34,7 +33,6 @@ class PhotoGallery extends Component {
             <Carousel.Item>
               <img className="carousel-image" src={img4} alt="2" />
               <Carousel.Caption>
-                <p className="image-date">date</p>
                 <p className="image-location">Monterrey, CA</p>
               </Carousel.Caption>
             </Carousel.Item>
@@ -42,7 +40,6 @@ class PhotoGallery extends Component {
             <Carousel.Item>
               <img className="carousel-image" src={img5} alt="3" />
               <Carousel.Caption>
-                <p className="image-date">date</p>
                 <p className="image-location">Monterrey Bay Aquarium</p>
               </Carousel.Caption>
             </Carousel.Item>
@@ -50,7 +47,6 @@ class PhotoGallery extends Component {
             <Carousel.Item>
               <img className="carousel-image" src={img6} alt="4" />
               <Carousel.Caption>
-                <p className="image-date">date</p>
                 <p className="image-location">Land's End</p>
               </Carousel.Caption>
             </Carousel.Item>
@@ -58,7 +54,6 @@ class PhotoGallery extends Component {
             <Carousel.Item>
               <img className="carousel-image" src={img7} alt="5" />
               <Carousel.Caption>
-                <p className="image-date">date</p>
                 <p className="image-location">Monterrey, CA</p>
               </Carousel.Caption>
             </Carousel.Item>

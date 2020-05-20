@@ -3,12 +3,19 @@ import "./ProjectsDisp.css";
 import { Jumbotron } from "react-bootstrap";
 import { Row, Col } from "../../Components/Grid";
 import { Button } from "react-bootstrap";
-import ProjectImg1 from "../../Images/project-img-1.png";
-import ProjectImg2 from "../../Images/project-img-2.png";
-import ProjectImg3 from "../../Images/project-img-3.png";
-import ProjectImg4 from "../../Images/project-img-4.png";
-import ProjectImg5 from "../../Images/project-img-5.png";
-import ProjectImg6 from "../../Images/project-img-6.png";
+import ProjectImg1 from "../../Images/proj-airball.png";
+import ProjectImg2 from "../../Images/proj-traveleaze.png";
+import ProjectImg3 from "../../Images/proj-eatbook.png";
+import ProjectImg4 from "../../Images/proj-googlebooks.png";
+import ProjectImg5 from "../../Images/proj-nytscraper.png";
+import ProjectImg6 from "../../Images/proj-friendfinder.png";
+import ProjectImg7 from "../../Images/proj-bamazon.png";
+import ProjectImg8 from "../../Images/proj-trainscheduler.png";
+import ProjectImg9 from "../../Images/proj-liri.png";
+import ProjectImg10 from "../../Images/proj-rps.png";
+import ProjectImg11 from "../../Images/proj-gif.gif";
+import ProjectImg12 from "../../Images/proj-mario.png";
+import ProjectImg13 from "../../Images/proj-mvc.png";
 
 function ProjectsDispRender() {
   return (
@@ -100,7 +107,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">Google Books Tracker</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg4} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -130,7 +137,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">NYT Webscaper</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg5} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -160,7 +167,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">Celebrity Friend Finder</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg6} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -189,7 +196,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">Amazon Stocker</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg7} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -219,7 +226,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">Train Scheduler</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg8} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -248,7 +255,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">SIRI for Music</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg9} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -278,7 +285,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">RPS (Multiplayer)</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg10} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -308,7 +315,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">GIF Collector</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg11} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -338,7 +345,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">Mario RPG</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg12} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
@@ -368,7 +375,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">Marvel Vs. Capcom Word Guess </h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg3} alt="#" />
+            <img className="project-image" src={ProjectImg13} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
