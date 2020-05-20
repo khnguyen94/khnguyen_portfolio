@@ -40,11 +40,11 @@ class Home extends Component {
       <div className="home">
         <div className="caption">
           <div className="row caption-row">
-            <div className="col col-md-3 col-sm-12">
+            <div className="col-md-3 col-sm-12">
               <img className="portfolio-photo" src={PortfolioPhoto} alt="headshot" />
             </div>
 
-            <div className="col col-md-6 col-sm-12">
+            <div className="col-md-6 col-sm-12">
               <h1>Khoa Nguyen</h1>
 
               <h3>Full-Stack Web Developer // Consultant</h3>
