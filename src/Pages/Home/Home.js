@@ -3,8 +3,10 @@ import "./Home.css";
 import { IoIosPhonePortrait } from "react-icons/io";
 import { IoIosMail } from "react-icons/io";
 import { FaGithub } from "react-icons/fa";
-import PortfolioPhoto from "../../Images/portfolio-photo.png";
 import { CopyToClipboard } from "react-copy-to-clipboard";
+// import PortfolioPhoto from "../../Images/portfolio-photo.png";
+
+const PortfolioPhoto = require('../../Images/portfolio-photo.png');
 
 class Home extends Component {
   state = {
