@@ -10,19 +10,23 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <div className="App">
-      <Nav />
-
-      <Landing />
-
-      <Home />
-
-      <Portfolio />
-
-      <Gallery />
-
-      <Footer />
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Khoa Nguyen React Portfolio
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
     </div>
   );
 }
 
 export default App;
+
