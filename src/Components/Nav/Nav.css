@@ -1,0 +1,34 @@
+.navbar {
+    position: fixed;
+    /*Here's what sticks it*/
+    top: 0;
+    /*to the bottom of the window*/
+    width: 100%;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.navbar-nav {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase; 
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .2rem;
+    opacity: .92;
+}
+
+.nav-link {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+}

@@ -1,0 +1,111 @@
+.project-grid {
+    opacity: 1;
+    max-width: 95%;
+    clear: both;
+    margin-top: 100px;
+}
+
+.project-item {
+    border: 1.25px red;
+    margin: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.project-item .project-title {
+    background: white;
+    padding: 5px;
+    color: grey;
+    border-radius: 8px;
+    margin-bottom: 6px;
+}
+
+.project-item .image-box {
+    border-radius: 20%;
+    position: relative;
+    overflow: hidden;
+}
+
+.project-item .image-box .project-image {
+    border-radius: 20%;
+    max-width: 100%;
+    transition: transform 1s;
+}
+
+.project-item:hover .image-box .project-image {
+    transform: scale(1.2);
+    opacity: .89;
+    transition: .3s;
+}
+
+.project-item .project-details {
+    position: absolute;
+    bottom: 40%;
+    width: 100%;
+    max-width: 100%;
+    transform: scaleY(0);
+    transition: .1s;
+}
+
+.project-item:hover .project-details {
+    transform: scaleY(1);
+}
+
+.project-item .project-details .project-details-content {
+    position: absolute; 
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+.project-item .project-details .project-summary {
+    border: 1px solid grey;
+    border-radius: 8px;
+    background: white;
+    color: grey;
+    opacity: .9;
+}
+
+.project-item .project-details .techs-list {
+    float: left;
+    margin: 5px;
+    border-radius: 8px;
+    color: grey;
+    margin-bottom: 5px;
+    width: 100%;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.project-item .project-details .techs-list .techs-item {
+    margin: 5px;
+    background-color: grey;
+    opacity: .8;
+    padding: 3px;
+    border-radius: 8px;
+    border: 1px solid white;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    display: inline-block;
+}
+
+.project-item .project-details .project-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+
+.project-item .project-details .project-links .project-link {
+    float: left;
+    margin: 5px;
+    border-radius: 8px;
+    border: 2px solid grey;
+    color: grey;
+    font-size: 20px;
+}
