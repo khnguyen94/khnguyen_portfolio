@@ -205,7 +205,7 @@ function ProjectsDispRender() {
                 <li className="techs-item">axios</li>
               </ul>
               <div className="project-links">
-                <Button href="https://www.google.com/" variant="secondary" size="sm">
+                <Button href="#" variant="secondary" size="sm" disabled>
                   Link
                 </Button>
                 <Button href="https://github.com/khnguyen94/bamazon" variant="secondary" size="sm">
