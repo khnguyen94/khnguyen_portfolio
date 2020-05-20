@@ -41,7 +41,7 @@ class Home extends Component {
         <div className="caption">
           <div className="row caption-row">
             <div className="col-md-3 col-sm-12">
-              <img className="portfolio-photo" src={PortfolioPhoto} alt="#" />
+              <img className="portfolio-photo" src={PortfolioPhoto} alt="headshot" />
             </div>
 
             <div className="col-md-6 col-sm-12">
