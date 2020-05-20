@@ -4,7 +4,7 @@ import { IoIosPhonePortrait } from "react-icons/io";
 import { IoIosMail } from "react-icons/io";
 import { FaGithub } from "react-icons/fa";
 import { CopyToClipboard } from "react-copy-to-clipboard";
-import PortfolioPhoto from "../../../src/Images/headshot.png";
+import PortfolioPhoto from "../../../src/Images/headshot.jpg";
 
 class Home extends Component {
   state = {
@@ -41,7 +41,7 @@ class Home extends Component {
         <div className="caption">
           <div className="row caption-row">
             <div className="col-md-3 col-sm-12">
-              <img className="portfolio-photo" src={PortfolioPhoto} alt="headshot" />
+              <img className="portfolio-photo" src="https://i.ibb.co/2N2bk67/headshot.jpg" alt="headshot" />
             </div>
 
             <div className="col-md-6 col-sm-12">
