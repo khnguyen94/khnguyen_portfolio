@@ -4,7 +4,7 @@ import { IoIosPhonePortrait } from "react-icons/io";
 import { IoIosMail } from "react-icons/io";
 import { FaGithub } from "react-icons/fa";
 import { CopyToClipboard } from "react-copy-to-clipboard";
-import PortfolioPhoto from "../../Images/headshot2.png";
+import PortfolioPhoto from "../../../src/Images/headshot.png";
 
 class Home extends Component {
   state = {
