@@ -27,7 +27,7 @@ class PhotoGallery extends Component {
               <img className="carousel-image" src={img3} alt="1" />
               <Carousel.Caption>
                 <p className="image-date">date</p>
-                <p className="image-location">Standford University</p>
+                <p className="image-location">Stanford University</p>
               </Carousel.Caption>
             </Carousel.Item>
 
