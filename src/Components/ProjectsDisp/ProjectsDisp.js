@@ -29,7 +29,8 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                The premier game and stats notification web app for avid NBA fans!
+                The premier game and stats notification web app for avid NBA
+                fans!
               </p>
               <ul className="techs-list">
                 <li className="techs-item">React</li>
@@ -38,10 +39,18 @@ function ProjectsDispRender() {
                 <li className="techs-item">Express</li>
               </ul>
               <div className="project-links">
-              <Button href="https://heroku-dunkitapp.herokuapp.com/" variant="secondary" size="sm">
+                <Button
+                  href="https://heroku-dunkitapp.herokuapp.com/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/Project_3" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/Project_3"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -57,7 +66,8 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                TravelEAZE is an easy to use, all-in-one web app that combines airline booking and translation services!
+                TravelEAZE is an easy to use, all-in-one web app that combines
+                airline booking and translation services!
               </p>
               <ul className="techs-list">
                 <li className="techs-item">React</li>
@@ -66,10 +76,18 @@ function ProjectsDispRender() {
                 <li className="techs-item">Express</li>
               </ul>
               <div className="project-links">
-              <Button href="https://project2kkca.herokuapp.com/" variant="secondary" size="sm">
+                <Button
+                  href="https://project2kkca.herokuapp.com/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/project_2" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/project_2"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -85,7 +103,9 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Are your friends bombarding you with restaurant suggestions? Use our platform to review all their recommendations and keep track of them for later visits!
+                Are your friends bombarding you with restaurant suggestions? Use
+                our platform to review all their recommendations and keep track
+                of them for later visits!
               </p>
               <ul className="techs-list">
                 <li className="techs-item">Node</li>
@@ -93,10 +113,18 @@ function ProjectsDispRender() {
                 <li className="techs-item">Express</li>
               </ul>
               <div className="project-links">
-              <Button href="https://khnguyen94.github.io/Restaurant_Tracker/" variant="secondary" size="sm">
+                <Button
+                  href="https://khnguyen94.github.io/Restaurant_Tracker/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/Restaurant_Tracker" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/Restaurant_Tracker"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -123,7 +151,7 @@ function ProjectsDispRender() {
                 <li className="techs-item">Angular</li>
               </ul>
               <div className="project-links">
-              <Button href="#" variant="secondary" size="sm">
+                <Button href="#" variant="secondary" size="sm">
                   Link
                 </Button>
                 <Button href="#" variant="secondary" size="sm">
@@ -153,7 +181,7 @@ function ProjectsDispRender() {
                 <li className="techs-item">axios</li>
               </ul>
               <div className="project-links">
-              <Button href="#" variant="secondary" size="sm">
+                <Button href="#" variant="secondary" size="sm">
                   Link
                 </Button>
                 <Button href="#" variant="secondary" size="sm">
@@ -172,7 +200,8 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Here's your chance to brush shoulders with the rich and famous! Who knew you need a friend in Hollywood!
+                Here's your chance to brush shoulders with the rich and famous!
+                Who knew you need a friend in Hollywood!
               </p>
               <ul className="techs-list">
                 <li className="techs-item">express</li>
@@ -182,10 +211,18 @@ function ProjectsDispRender() {
                 <li className="techs-item">axios</li>
               </ul>
               <div className="project-links">
-              <Button href="https://gentle-wave-87887.herokuapp.com/" variant="secondary" size="sm">
+                <Button
+                  href="https://gentle-wave-87887.herokuapp.com/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/Celebrity_Friend_Finder" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/Celebrity_Friend_Finder"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -215,7 +252,11 @@ function ProjectsDispRender() {
                 <Button href="#" variant="secondary" size="sm" disabled>
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/bamazon" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/bamazon"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -231,7 +272,8 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Thinking of traveling by railway in the Looney Toons Universe? Coyote's got you covered!
+                Thinking of traveling by railway in the Looney Toons Universe?
+                Coyote's got you covered!
               </p>
               <ul className="techs-list">
                 <li className="techs-item">express</li>
@@ -241,10 +283,18 @@ function ProjectsDispRender() {
                 <li className="techs-item">axios</li>
               </ul>
               <div className="project-links">
-              <Button href="https://khnguyen94.github.io/Train_Scheduler/" variant="secondary" size="sm">
+                <Button
+                  href="https://khnguyen94.github.io/Train_Scheduler/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/Train_Scheduler" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/Train_Scheduler"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -271,10 +321,14 @@ function ProjectsDispRender() {
                 <li className="techs-item">axios</li>
               </ul>
               <div className="project-links">
-              <Button href="#" variant="secondary" size="sm" disabled>
+                <Button href="#" variant="secondary" size="sm" disabled>
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/LIRI" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/LIRI"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -290,18 +344,18 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Blurb is already part of Lightroom Classic! Never leave your
-                everyday workflow with the book module.
+                This is a multiplayer RPS game with integrated chat room and powered by Google's Firebase.
               </p>
               <ul className="techs-list">
-                <li className="techs-item">express</li>
-                <li className="techs-item">express-handlebars</li>
-                <li className="techs-item">mongoose</li>
-                <li className="techs-item">cheerio</li>
-                <li className="techs-item">axios</li>
+              <li className="techs-item">HTML</li>
+                <li className="techs-item">CSS</li>
+                <li className="techs-item">JS</li>
+                <li className="techs-item">jQuery</li>
+                <li className="techs-item">Bootstrap</li>
+                <li className="techs-item">Google Firebase</li>
               </ul>
               <div className="project-links">
-              <Button href="#" variant="secondary" size="sm">
+                <Button href="#" variant="secondary" size="sm" disabled>
                   Link
                 </Button>
                 <Button href="#" variant="secondary" size="sm">
@@ -320,21 +374,29 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Blurb is already part of Lightroom Classic! Never leave your
-                everyday workflow with the book module.
+                Use this site to find and bookmark all your favorite memes!
               </p>
               <ul className="techs-list">
-                <li className="techs-item">express</li>
-                <li className="techs-item">express-handlebars</li>
-                <li className="techs-item">mongoose</li>
-                <li className="techs-item">cheerio</li>
-                <li className="techs-item">axios</li>
+                <li className="techs-item">HTML</li>
+                <li className="techs-item">CSS</li>
+                <li className="techs-item">JS</li>
+                <li className="techs-item">jQuery</li>
+                <li className="techs-item">Bootstrap</li>
+                <li className="techs-item">GIPHY API</li>
               </ul>
               <div className="project-links">
-              <Button href="https://khnguyen94.github.io/GIF_Generator/" variant="secondary" size="sm">
+                <Button
+                  href="https://khnguyen94.github.io/GIF_Generator/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/GIF_Generator" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/GIF_Generator"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -350,21 +412,29 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Blurb is already part of Lightroom Classic! Never leave your
-                everyday workflow with the book module.
+                Play as your favorite Super Smash Bros characters in this turn
+                based RPG battle game!
               </p>
               <ul className="techs-list">
-                <li className="techs-item">express</li>
-                <li className="techs-item">express-handlebars</li>
-                <li className="techs-item">mongoose</li>
-                <li className="techs-item">cheerio</li>
-                <li className="techs-item">axios</li>
+                <li className="techs-item">HTML</li>
+                <li className="techs-item">CSS</li>
+                <li className="techs-item">JS</li>
+                <li className="techs-item">jQuery</li>
+                <li className="techs-item">Bootstrap</li>
               </ul>
               <div className="project-links">
-              <Button href="https://khnguyen94.github.io/Mario-RPG-Game-2/" variant="secondary" size="sm">
+                <Button
+                  href="https://khnguyen94.github.io/Mario-RPG-Game-2/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/Mario-RPG-Game-2" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/Mario-RPG-Game-2"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
@@ -380,23 +450,75 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Play this fun version of the classic Hangman game and test your knowledge of Marvel and Capcome characters!
+                Play this fun version of the classic Hangman game and test your
+                knowledge of Marvel and Capcome characters!
               </p>
               <ul className="techs-list">
                 <li className="techs-item">HTML</li>
+                <li className="techs-item">CSS</li>
                 <li className="techs-item">JS</li>
+                <li className="techs-item">jQuery</li>
+                <li className="techs-item">Bootstrap</li>
               </ul>
               <div className="project-links">
-              <Button href="https://khnguyen94.github.io/MvC-Hangman/" variant="secondary" size="sm">
+                <Button
+                  href="https://khnguyen94.github.io/MvC-Hangman/"
+                  variant="secondary"
+                  size="sm"
+                >
                   Link
                 </Button>
-                <Button href="https://github.com/khnguyen94/MvC-Hangman" variant="secondary" size="sm">
+                <Button
+                  href="https://github.com/khnguyen94/MvC-Hangman"
+                  variant="secondary"
+                  size="sm"
+                >
                   Code
                 </Button>
               </div>
             </div>
           </div>
         </div>
+
+        <div className="project-item">
+          <h5 className="project-title">NBA Trivia</h5>
+          <div className="image-box">
+            <img className="project-image" src={ProjectImg13} alt="#" />
+          </div>
+          <div className="project-details">
+            <div className="project-details-content">
+              <p className="project-summary">
+              This is a basic trivia game that challenges player's knowledge of basketball history. Some of these questions are tough for even the most avid NBA fans!
+              </p>
+              <ul className="techs-list">
+                <li className="techs-item">HTML</li>
+                <li className="techs-item">CSS</li>
+                <li className="techs-item">JS</li>
+                <li className="techs-item">jQuery</li>
+                <li className="techs-item">Bootstrap</li>
+                <li className="techs-item">Timers</li>
+              </ul>
+              <div className="project-links">
+                <Button
+                  href="https://khnguyen94.github.io/NBA-Trivia/"
+                  variant="secondary"
+                  size="sm"
+                >
+                  Link
+                </Button>
+                <Button
+                  href="https://github.com/khnguyen94/NBA-Trivia"
+                  variant="secondary"
+                  size="sm"
+                >
+                  Code
+                </Button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
       </Row>
     </div>
   );
