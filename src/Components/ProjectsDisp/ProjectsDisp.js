@@ -16,6 +16,7 @@ import ProjectImg10 from "../../Images/proj-rps.png";
 import ProjectImg11 from "../../Images/proj-gif.gif";
 import ProjectImg12 from "../../Images/proj-mario.png";
 import ProjectImg13 from "../../Images/proj-mvc.png";
+import ProjectImg14 from "../../Images/proj-nbatrivia.png";
 
 function ProjectsDispRender() {
   return (
@@ -310,15 +311,14 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Blurb is already part of Lightroom Classic! Never leave your
-                everyday workflow with the book module.
+                Are you tired of not having a virtual assistant who knows everything about live music and cinema? Look no further, LIRI is here for all your entertainment inquiries. 
               </p>
               <ul className="techs-list">
-                <li className="techs-item">express</li>
-                <li className="techs-item">express-handlebars</li>
-                <li className="techs-item">mongoose</li>
-                <li className="techs-item">cheerio</li>
+                <li className="techs-item">node.js</li>
                 <li className="techs-item">axios</li>
+                <li className="techs-item">dotenv</li>
+                <li className="techs-item">moment</li>
+                <li className="techs-item">node-spotify-api</li>
               </ul>
               <div className="project-links">
                 <Button href="#" variant="secondary" size="sm" disabled>
@@ -483,7 +483,7 @@ function ProjectsDispRender() {
         <div className="project-item">
           <h5 className="project-title">NBA Trivia</h5>
           <div className="image-box">
-            <img className="project-image" src={ProjectImg13} alt="#" />
+            <img className="project-image" src={ProjectImg14} alt="#" />
           </div>
           <div className="project-details">
             <div className="project-details-content">
