@@ -17,6 +17,8 @@ import ProjectImg11 from "../../Images/proj-gif.gif";
 import ProjectImg12 from "../../Images/proj-mario.png";
 import ProjectImg13 from "../../Images/proj-mvc.png";
 import ProjectImg14 from "../../Images/proj-nbatrivia.png";
+import ProjectImg15 from "../../Images/proj-pokemonCLI.png";
+
 
 function ProjectsDispRender() {
   return (
@@ -232,6 +234,38 @@ function ProjectsDispRender() {
         </div>
 
         <div className="project-item">
+          <h5 className="project-title">Pokemon Word Guess - CLI</h5>
+          <div className="image-box">
+            <img className="project-image" src={ProjectImg15} alt="#" />
+          </div>
+          <div className="project-details">
+            <div className="project-details-content">
+              <p className="project-summary">
+                Guess the mystery Pokemon using your command line!
+              </p>
+              <ul className="techs-list">
+                <li className="techs-item">JS</li>
+                <li className="techs-item">node.js</li>
+                <li className="techs-item">chalk</li>
+                <li className="techs-item">inquirer</li>
+              </ul>
+              <div className="project-links">
+                <Button href="#" variant="secondary" size="sm" disabled>
+                  Link
+                </Button>
+                <Button
+                  href="https://github.com/khnguyen94/Word_Guess_CLI"
+                  variant="secondary"
+                  size="sm"
+                >
+                  Code
+                </Button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="project-item">
           <h5 className="project-title">Amazon Stocker</h5>
           <div className="image-box">
             <img className="project-image" src={ProjectImg7} alt="#" />
@@ -239,8 +273,7 @@ function ProjectsDispRender() {
           <div className="project-details">
             <div className="project-details-content">
               <p className="project-summary">
-                Blurb is already part of Lightroom Classic! Never leave your
-                everyday workflow with the book module.
+                Amazon e-commerce simulator
               </p>
               <ul className="techs-list">
                 <li className="techs-item">express</li>
